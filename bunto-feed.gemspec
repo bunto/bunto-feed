@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "bunto-feed"
-  spec.version       = "0.4.0"
+  spec.version       = "1.0.0"
   spec.authors       = ["Ben Balter", "Suriyaa Kudo"]
   spec.email         = ["ben.balter@github.com", "SuriyaaKudoIsc@users.noreply.github.com"]
   spec.summary       = "A Bunto plugin to generate an Atom feed of your Bunto posts"
